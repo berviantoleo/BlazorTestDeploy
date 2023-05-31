@@ -25,7 +25,7 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Publish
-      run: dotnet publish -o published
+      run: dotnet publish StaticWeb -C Release -o published
     - name: Deploy
       if: ${{ github.event_name == 'push' }}
       uses: peaceiris/actions-gh-pages@v3
