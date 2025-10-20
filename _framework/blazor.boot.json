@@ -1,7 +1,7 @@
 {
   "entryAssembly": "StaticWeb",
   "resources": {
-    "hash": "sha256-5lf4xbQp4ZE03n8wFNnjubXXiOSgt+KfsB33RQ65nJ8=",
+    "hash": "sha256-+aGHQoBicCawffd7TjTdgRaPSQH4EYGnqiadLxuVzxI=",
     "runtime": {
       "dotnet.js": "sha256-pu7MO47B6So4jcW6iY2UI11lBZYz2EQnJKiYNsOpNJg=",
       "dotnet.timezones.blat": "sha256-vrFYQt55a4tGoDGoyRfjjGa1nSecx646RK78iTzPWCM=",
@@ -40,7 +40,7 @@
       "System.Text.Encodings.Web.dll": "sha256-ATin6ZzR+DVMHVfvjOschivJP/vyRTHSvome575MYc4=",
       "System.Text.Json.dll": "sha256-IxyQSp5Y8f7tlupweB/EhxoXkurnhfJsRtao8ZcN+nY=",
       "System.Private.CoreLib.dll": "sha256-VdhjmrVFFlCsWAXmWhqCO3y1E+J2VWb7yLXbYTxRpRc=",
-      "StaticWeb.dll": "sha256-tA2iCmkrV4nMCRTyaK8XlIGXelsqplPbLC7fejkD9oI="
+      "StaticWeb.dll": "sha256-dCrUYG6wJEKqhtDvJ7GM2n9K7wGSQXE+ts5h8Tz8zic="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
